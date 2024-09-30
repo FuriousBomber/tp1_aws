@@ -1,3 +1,5 @@
-import z_binary
 
-print(z_binary.is_multiple_of(10,2))
+import z_unary
+
+
+print(z_unary.sum_of_digit(4,6))
